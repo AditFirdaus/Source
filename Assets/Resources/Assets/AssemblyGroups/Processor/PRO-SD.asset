@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d2a0f69a84f13a4588e9f3f05a3e97c, type: 3}
+  m_Name: PRO-SD
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 406576930968948247, guid: 81582ff23ef9fa745a26f8f63433ce86, type: 3}
+  points:
+  - {x: 0, y: 0}
+  - {x: 0, y: 1}
+  - {x: 1, y: 0}
+  - {x: 1, y: 1}
+  sprite: {fileID: 21300000, guid: b505857eb367e89428e7a7f2c153ee36, type: 3}
+  spritePreview: {fileID: 0}
+  description: 'The most powerfull processor that we ever develop, but warning: [
+    CONSUMES VERY HIGH POWER ]'
+  effect:
+    battery:
+      amount: 0
+    propeller:
+      amount: 0
+    lights:
+      amount: 0
+    sensor:
+      amount: 0
+    camera:
+      amount: 0
+    processor:
+      amount: 1240
